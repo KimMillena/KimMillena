@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Kim Angelo Rafael C. Millena
 
 ## About me
-I am a Kim Angelo Rafael C. Millena a passionnate coder with strong skills in database management. I love diving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and learning ever since.
+I am a Kim Angelo Rafael C. Millena, a passionnate coder with strong skills in database management. I love diving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and learning ever since.
 
 ## Education 
 - **BS Information Technology**
