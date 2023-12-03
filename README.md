@@ -4,7 +4,7 @@
 I am a Kim Angelo Rafael C. Millena, a passionnate coder with strong skills in database management. I love diving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and learning ever since.
 
 ## Education 
-- **BS Information Technology** New Era University* *2022 - Present*
+- **BS Information Technology** *New Era University* *2022 - Present*
 
 ## Certification
 * [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D772C4E63E0391E6521A3331D1BD9C4E9A669DB0954F34AF750530AEF69AA97D&fbclid=IwAR0Tj4pNTUOftkMkmSCCw-mMh9NiRBYFThyM46jgZbrdjCQcVeL4CZ8w14s))
