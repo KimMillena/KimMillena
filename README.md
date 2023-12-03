@@ -14,9 +14,9 @@ I am a Kim Angelo Rafael C. Millena a passionnate coder with strong skills in da
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fe604c88e8544817abd4934f2a214924?fbclid=IwAR0teazcBf5LyqfOFNLzsLgtmv9-7JiGiS7FKRPGysTIHHk4dYAsNWgpqBw)
 
 ## Skill sets:
-* Programming :  Java, Javascript
-* Databases: IBM DB2 Cloud
-* Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+* **Programming**:  Java, Javascript
+* **Databases**: IBM DB2 Cloud
+* **Tools**:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Out
 - **LinkedIn:** [LinkedIn Profile](insert-linkedin-link)
