@@ -8,7 +8,7 @@ I am a tech enthusiast with a passion for coding and strong skills in database m
   - *2022 - Present*
 
 ## Certification
-* [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate]([insert-link-1](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D772C4E63E0391E6521A3331D1BD9C4E9A669DB0954F34AF750530AEF69AA97D&fbclid=IwAR0Tj4pNTUOftkMkmSCCw-mMh9NiRBYFThyM46jgZbrdjCQcVeL4CZ8w14s))
+* [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D772C4E63E0391E6521A3331D1BD9C4E9A669DB0954F34AF750530AEF69AA97D&fbclid=IwAR0Tj4pNTUOftkMkmSCCw-mMh9NiRBYFThyM46jgZbrdjCQcVeL4CZ8w14s))
 * [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D2C505BBDDD22CFE62CDA6EC285B5DE714504118BD5E2887776082185FCF3029&fbclid=IwAR0JBmOuLJ2_Az3hFl7Tho4O-spddBgrnjqpdXkfAiVq6dfw5daAnKVhrAA)
 * [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3211762A03543D3D70296A9ADF5A4100149C224E8FEC9AA1920794789810DB3F&fbclid=IwAR0qi5VYdtCsfqP7LhSm_9pns9S3DaGwfv4DN0p3X8dGVzCAyX9J4GLbYLQ)
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fe604c88e8544817abd4934f2a214924?fbclid=IwAR0teazcBf5LyqfOFNLzsLgtmv9-7JiGiS7FKRPGysTIHHk4dYAsNWgpqBw)
