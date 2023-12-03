@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Kim Angelo Rafael C. Millena
 
-I am a tech enthusiast with a passion for coding and strong skills in database management. I love diving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and learning ever since.
+##About me
+I am a Kim Angelo Rafael C. Millena a passionnate coder with strong skills in database management. I love diving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and learning ever since.
 
 ## Education 
 - **BS Information Technology**
@@ -12,17 +13,10 @@ I am a tech enthusiast with a passion for coding and strong skills in database m
 * [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3211762A03543D3D70296A9ADF5A4100149C224E8FEC9AA1920794789810DB3F&fbclid=IwAR0qi5VYdtCsfqP7LhSm_9pns9S3DaGwfv4DN0p3X8dGVzCAyX9J4GLbYLQ)
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fe604c88e8544817abd4934f2a214924?fbclid=IwAR0teazcBf5LyqfOFNLzsLgtmv9-7JiGiS7FKRPGysTIHHk4dYAsNWgpqBw)
 
-## Skills
-- **Programming:**
-  - Java
-  - JavaScript
-- **Databases:**
-  - IBM DB2 Cloud
-- **Tools:**
-  - Lucidchart
-  - Jaspersoft Studio
-  - Eclipse
-  - HTML
+## Skill sets:
+* Programming :  Java, Javascript
+* Databases: IBM DB2 Cloud
+* Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Out
 - **LinkedIn:** [LinkedIn Profile](insert-linkedin-link)
