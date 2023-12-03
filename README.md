@@ -17,7 +17,7 @@ I am a Kim Angelo Rafael C. Millena, a passionnate coder with strong skills in d
 * **Databases**: IBM DB2 Cloud
 * **Tools**:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
-## You may reach me at
+## You may reach me at:
 - **LinkedIn:** [Kim Millena](https://www.linkedin.com/in/kim-millena-b58b282a2/)
 - **Email:** kimmillena09@gmail.com
 
