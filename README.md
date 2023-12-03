@@ -19,7 +19,7 @@ I am a Kim Angelo Rafael C. Millena, a passionnate coder with strong skills in d
 * **Tools**:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Out
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kim-millena-b58b282a2/)
+- **LinkedIn:** [Kim Millena](https://www.linkedin.com/in/kim-millena-b58b282a2/)
 - **Email:** kimmillena09@gmail.com
 
 Let's connect and explore the fascinating world of technology together!
