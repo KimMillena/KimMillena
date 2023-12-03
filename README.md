@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there! 👋 I'm Kim Angelo Rafael C. Millena
 
-<!--
-**KimMillena/KimMillena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech enthusiast with a passion for coding and strong skills in database management. I love diving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and learning ever since.
 
-Here are some ideas to get you started:
+## Education
+- **BS Information Technology**
+  - *New Era University*
+  - *2022 - Present*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certification
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate]([insert-link-1](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D772C4E63E0391E6521A3331D1BD9C4E9A669DB0954F34AF750530AEF69AA97D&fbclid=IwAR0Tj4pNTUOftkMkmSCCw-mMh9NiRBYFThyM46jgZbrdjCQcVeL4CZ8w14s))
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D2C505BBDDD22CFE62CDA6EC285B5DE714504118BD5E2887776082185FCF3029&fbclid=IwAR0JBmOuLJ2_Az3hFl7Tho4O-spddBgrnjqpdXkfAiVq6dfw5daAnKVhrAA)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3211762A03543D3D70296A9ADF5A4100149C224E8FEC9AA1920794789810DB3F&fbclid=IwAR0qi5VYdtCsfqP7LhSm_9pns9S3DaGwfv4DN0p3X8dGVzCAyX9J4GLbYLQ)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fe604c88e8544817abd4934f2a214924?fbclid=IwAR0teazcBf5LyqfOFNLzsLgtmv9-7JiGiS7FKRPGysTIHHk4dYAsNWgpqBw)
+
+## Skills
+- **Programming:**
+  - Java
+  - JavaScript
+- **Databases:**
+  - IBM DB2 Cloud
+- **Tools:**
+  - Lucidchart
+  - Jaspersoft Studio
+  - Eclipse
+  - HTML
+
+## Reach Out
+- **LinkedIn:** [LinkedIn Profile](insert-linkedin-link)
+- **Email:** kimmillena09@gmail.com
+
+Let's connect and explore the fascinating world of technology together!
+
