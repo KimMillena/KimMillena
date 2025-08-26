@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kim Angelo Rafael C. Millena
+# Hi! 👋 I'm Kim Angelo Rafael C. Millena
 
 ## About me
 I am a Kim Angelo Rafael C. Millena, a passionnate coder with strong skills in database management. I love diving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and learning ever since.
@@ -12,11 +12,13 @@ I am a Kim Angelo Rafael C. Millena, a passionnate coder with strong skills in d
 * [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3211762A03543D3D70296A9ADF5A4100149C224E8FEC9AA1920794789810DB3F&fbclid=IwAR0qi5VYdtCsfqP7LhSm_9pns9S3DaGwfv4DN0p3X8dGVzCAyX9J4GLbYLQ)
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fe604c88e8544817abd4934f2a214924?fbclid=IwAR0teazcBf5LyqfOFNLzsLgtmv9-7JiGiS7FKRPGysTIHHk4dYAsNWgpqBw)
 * [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/389179bb1b6f4847a6e11d47857639c7)
+* [Ethical Hacker](https://www.credly.com/badges/6477365e-e34e-4bc2-9fd3-1aca9307afd3)
+* [JavaScript Essentials 1](https://www.credly.com/badges/3577249e-9445-4218-b1af-0f48dd55af70)
 
 ## Skill sets
-* **Programming**:  Java, Python, Kotlin, Javascript
-* **Databases**: IBM DB2 Cloud
-* **Tools**:  Lucidchart, Jaspersoft Studio, Eclipse, Android Studio, HTML
+* **Programming**:  Java, Python, Kotlin, HTML, CSS, Javascript, React Native
+* **Databases**: MySQL, IBM DB2 Cloud, Firebase
+* **Tools**:  Git, Github, Visual Studio Code, Lucidchart, Jaspersoft Studio, Eclipse, Android Studio, Canva, Figma
 
 ## Connect with Me
 - **LinkedIn:** [Kim Millena](https://www.linkedin.com/in/kim-millena-b58b282a2/)
